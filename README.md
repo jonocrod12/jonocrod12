@@ -1,5 +1,13 @@
 
 
+# Hello everyone! 👋
+
+I'm a software development student, who likes to learn. ✍️ 💻
+
+
+
+
+
 <div align="center">
 
 <a href="https://github.com/jonocrod12/">
